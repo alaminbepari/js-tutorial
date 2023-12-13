@@ -16,4 +16,3 @@ const arry22 = ["hello2","hello 2","Hello2"];
 
 const arry4 = [...arry, ...arry2, ...arry22]
 console.log( arry4);
-hello
